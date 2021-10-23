@@ -1,12 +1,16 @@
 {
-  "websites" : [ 
+  "users" : [ 
     {
-      "description" : "work",
-      "URL" : "https://www.digitalocean.com/"
+      "username" : "joko",
+      "email" : "joko712@gmail.com",
+      "password" : "joko123",
+      "id" : 1
     },
     {
-      "desciption" : "tutorials",
-      "URL" : "https://www.digitalocean.com/community/tutorials"
+      "username" : "diki",
+      "email" : "diki123@gmail.com",
+      "password" : "diki123",
+      "id" : 1
     }
   ]
 }
